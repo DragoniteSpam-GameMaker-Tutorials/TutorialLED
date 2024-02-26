@@ -1,0 +1,36 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "TutorialLED",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.11.1.129",
+  },
+  "resources": [
+    {"id":{"name":"spr_conservatory","path":"sprites/spr_conservatory/spr_conservatory.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"spr_bunny","path":"sprites/spr_bunny/spr_bunny.yy",},},
+    {"id":{"name":"spr_marigolds","path":"sprites/spr_marigolds/spr_marigolds.yy",},},
+    {"id":{"name":"spr_fountain","path":"sprites/spr_fountain/spr_fountain.yy",},},
+    {"id":{"name":"shd_mosaic","path":"shaders/shd_mosaic/shd_mosaic.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType": null,
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

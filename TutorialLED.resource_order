@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_conservatory","order":26,"path":"sprites/spr_conservatory/spr_conservatory.yy",},
+    {"name":"Object1","order":15,"path":"objects/Object1/Object1.yy",},
+    {"name":"spr_bunny","order":18,"path":"sprites/spr_bunny/spr_bunny.yy",},
+    {"name":"spr_marigolds","order":25,"path":"sprites/spr_marigolds/spr_marigolds.yy",},
+    {"name":"spr_fountain","order":27,"path":"sprites/spr_fountain/spr_fountain.yy",},
+    {"name":"shd_mosaic","order":24,"path":"shaders/shd_mosaic/shd_mosaic.yy",},
+    {"name":"Room1","order":14,"path":"rooms/Room1/Room1.yy",},
+  ],
+}
